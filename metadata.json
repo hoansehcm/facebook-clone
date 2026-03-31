@@ -1,0 +1,5 @@
+{
+  "name": "Simple Social Network",
+  "description": "A simple social network application with authentication, resembling Facebook.",
+  "requestFramePermissions": []
+}
